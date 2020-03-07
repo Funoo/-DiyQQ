@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/background (2).jpg</file>
+        <file>img/background.jpg</file>
+        <file>img/close.png</file>
+        <file>img/headimg.jpg</file>
+        <file>img/headimg1.jpg</file>
+        <file>img/icon.png</file>
+        <file>img/min.png</file>
+        <file>img/password.png</file>
+        <file>img/psw.png</file>
+        <file>img/username.png</file>
+        <file>img/myicon_1.png</file>
+        <file>img/myicon_3.png</file>
+        <file>img/contact_green.png</file>
+        <file>img/contact_white.png</file>
+        <file>img/monments_green.png</file>
+        <file>img/monments_white.png</file>
+        <file>img/QQgreen.png</file>
+        <file>img/QQwhite.png</file>
+        <file>img/bg1.jpg</file>
+        <file>img/bg.jpg</file>
+        <file>img/school.jpg</file>
+        <file>img/myicon_2.png</file>
+        <file>img/ddhead.jpg</file>
+        <file>img/ddhead2.jpg</file>
+        <file>img/head.jpg</file>
+        <file>img/friendmsg.png</file>
+        <file>img/A26_2.png</file>
+        <file>img/emotion26_2.png</file>
+        <file>img/A26.png</file>
+        <file>img/emotion26.png</file>
+        <file>img/right.jpg</file>
+        <file>img/kobe_1.jpg</file>
+    </qresource>
+</RCC>
